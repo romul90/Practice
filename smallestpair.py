@@ -3,6 +3,8 @@
 smallest_pair function finds smallest sum of pair B and C, so
 B * C = A ("number" in fumnction)
 
+https://www.reddit.com/r/dailyprogrammer/comments/83uvey/20180312_challenge_354_easy_integer_complexity_1/
+
 """
 def smallest_pair(number):
     for div in range(int(number**.5)):
