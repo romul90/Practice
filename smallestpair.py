@@ -1,4 +1,5 @@
 """
+
 smallest_pair function finds smallest sum of pair B and C, so
 B * C = A ("number" in fumnction)
 
